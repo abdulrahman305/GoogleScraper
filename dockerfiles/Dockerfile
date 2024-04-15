@@ -1,4 +1,4 @@
-FROM python:3.13.0a3
+FROM python:3.13.0a6
 
 # Install chrome driver
 WORKDIR /app/chromeDriver
